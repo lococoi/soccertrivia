@@ -24,7 +24,7 @@
         "id": "alerta_critica_001",
         "global": true,
         "version_exacta":1,
-        "version_inferior_a":-1,
+        "version_inferior_a":2,
         "titulo": "Aviso Urgente",
         "texto": "Hemos detectado un problema grave. Por favor, lee esto."
     },
@@ -46,5 +46,6 @@
     }
     ]
 }
+
 
 

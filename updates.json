@@ -9,7 +9,7 @@
     {
         "version": 124,
         "obl_definitivamente": false,
-        "obl_menor_a": 120,
+        "obl_menor_a": 1,
         "opcional_desde_version": 0
     },
     {
@@ -23,7 +23,7 @@
     {
         "id": "alerta_critica_001",
         "global": true,
-        "version_exacta":-1,
+        "version_exacta":1,
         "version_inferior_a":-1,
         "titulo": "Aviso Urgente",
         "texto": "Hemos detectado un problema grave. Por favor, lee esto."
@@ -31,7 +31,7 @@
     {
         "id": "nueva_caracteristica_002",
         "global": false,
-        "version_exacta":001,
+        "version_exacta": 1,
         "version_inferior_a": 125,
         "titulo": "¡Nuevas Funciones!",
         "texto": "Explora la nueva sección de 'Mis favoritos' disponible en la versión 125."
@@ -46,4 +46,5 @@
     }
     ]
 }
+
 

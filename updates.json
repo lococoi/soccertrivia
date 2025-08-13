@@ -2,7 +2,7 @@
     "control_actualizaciones": [
     {
         "version": 125,
-        "obl_definitivamente": true,
+        "obl_definitivamente": false,
         "obl_menor_a": 0,
         "opcional_desde_version": 0
     },
@@ -46,3 +46,4 @@
     }
     ]
 }
+

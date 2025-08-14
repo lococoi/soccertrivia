@@ -4,13 +4,15 @@
       "version": 141,
       "mandatory": false,
       "ads": true,
-      "min": 0
+      "min": 0,
+      "active": false
     },
     {
       "version": 108,
       "mandatory": false,
       "ads": true,
-      "min": 0
+      "min": 0,
+      "active": false
     }
   ],
   "alert": {
@@ -30,6 +32,7 @@
     ]
   }
 }
+
 
 
 

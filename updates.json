@@ -2,13 +2,13 @@
   "actualizacion": [
     {
       "version": 141,
-      "tipo": true,
+      "mandatory": true,
       "ads": true,
       "min": 130
     },
     {
       "version": 108,
-      "tipo": false,
+      "mandatory": false,
       "ads": true,
       "min": 105
     }
@@ -30,3 +30,4 @@
     ]
   }
 }
+

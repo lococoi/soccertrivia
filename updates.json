@@ -5,7 +5,7 @@
       "mandatory": false,
       "ads": true,
       "min": 0,
-      "active": false
+      "active": true
     },
     {
       "version": 108,
@@ -32,3 +32,4 @@
     }
   ]
 }
+

@@ -2,7 +2,7 @@
   "update": [
     {
       "version": 141,
-      "mandatory": true,
+      "mandatory": false,
       "ads": true,
       "min": 130
     },
@@ -16,7 +16,7 @@
   "alert": {
     "alerta_version": [
       {
-        "min": 100,
+        "min": 1,
         "max": 120,
         "title": "¡Atención! Vienen cambios",
         "txt": "Pronto se actualizará el diseño de la aplicación. ¡No te lo pierdas!"
@@ -30,5 +30,6 @@
     ]
   }
 }
+
 
 

@@ -1,5 +1,5 @@
 {
-  "actualizacion": [
+  "update": [
     {
       "version": 141,
       "mandatory": true,
@@ -13,7 +13,7 @@
       "min": 105
     }
   ],
-  "alerta": {
+  "alert": {
     "alerta_version": [
       {
         "min": 100,
@@ -30,4 +30,5 @@
     ]
   }
 }
+
 

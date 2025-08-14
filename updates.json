@@ -15,25 +15,20 @@
       "active": false
     }
   ],
-  "alert": {
-    "alerta_version": [
-      {
-        "min": 1,
-        "max": 120,
-        "title": "¡Atención! Vienen cambios",
-        "txt": "Pronto se actualizará el diseño de la aplicación. ¡No te lo pierdas!"
-      },
-      {
-        "min": 121,
-        "max": 135,
-        "title": "Versión desactualizada",
-        "txt": "Por favor, actualiza la aplicación para tener las últimas funciones de seguridad."
-      }
-    ]
-  }
+  "alert": [
+    {
+      "min": 1,
+      "max": 120,
+      "title": "¡Atención! Vienen cambios",
+      "txt": "Pronto se actualizará el diseño de la aplicación. ¡No te lo pierdas!",
+      "active": true
+    },
+    {
+      "min": 121,
+      "max": 135,
+      "title": "Versión desactualizada",
+      "txt": "Por favor, actualiza la aplicación para tener las últimas funciones de seguridad.",
+      "active": true
+    }
+  ]
 }
-
-
-
-
-
